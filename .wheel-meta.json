@@ -1,0 +1,22 @@
+{
+  "wheel_id": 833,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-117",
+  "project": "concrete-pool-retaining-walls-timeline-519cb514c4d388f5f528ef65",
+  "parent_t1_ref": "poolretainingwallsbrisbane-158",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "concrete pool retaining walls timeline",
+  "intended_url": "https://aumedia.neocities.org/concrete-pool-retaining-walls-timeline-519cb514c4d388f5f528ef65/",
+  "tier": "T2",
+  "writeback_nonce": "7268e60b546985e9",
+  "links": [
+    {
+      "target_url": "http://concrete-pool-retaining-walls-52eddd1637747f3d7fb791526ad4fe05c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Concrete Pool Retaining Walls: for sloping sites",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
